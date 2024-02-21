@@ -1,12 +1,11 @@
 #container {
-    border: blue;
-    border-style: dotted;
+   border: 3px dotted blue;
 }
 
 #text{
     padding:20px;
     margin:5%;
-    border:solid green;
+    border:solid green 2px;
 }
     
     
